@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    /*YA QUEDO*/
+    background-color: #131313;
+    font-size: 16px;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Share Tech Mono', monospace;
+    height: 100%;
+}
+h1{
+    /*YA QUEDO*/
+    color: #000000;
+}
+header{
+    /*YA QUEDO*/
+    width: 100%;
+    height: 90px;
+    background-color: #960000;
+    border-bottom: 1px solid #131313;
+}
+header h1{
+    /*YA QUEDO*/
+    width: 20%;
+    /*background-color: #bad0cd;*/
+    float: left;
+    margin-left: 10%;
+    margin-top: 30px;
+
+}
+header img{
+    width: 115px;
+    height: 87.5px;
+    margin-left: -29.5%;
+
+}
+header nav{
+    width: 60%;
+    /*background-color: #504b4f;*/
+    float: right;
+    margin-top: 35px;
+    margin-right: 5px;
+}
+header nav ul li{
+    list-style: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+header > nav > ul > li > a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.3rem;
+}
+header > nav > ul > li > a:hover{
+    color: #1a1a1a;
+    font-weight: bold;
+    opacity: 0.75;
+}
+h2{
+    color: #af0000;
+    margin-left: 23%;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+h3{
+    margin-left: 5%;
+    margin-top: 20px;
+    color: #7c0000;
+    font-size: 20px;
+}
+h4{
+    margin-left: 5%;
+    margin-top: -100px;
+    color: #7c0000;
+    font-size: 20px;
+}
+.tienda{
+    width: 600px;
+    height: 400px;
+    margin-left: 54%;
+    margin-right: 0%;
+    margin-top: -87px;
+}
